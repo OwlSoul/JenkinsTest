@@ -9,15 +9,14 @@ setup(
     # Chose a license from here: https://help.github.com/articles/licensing-a-repository
     license='MIT',
     # Give a short description about your library
-    description = 'Kind of an API to Yandex Transport/Masstransit service, to be used in '
-                  'conjunction with YandexTransportProxy server '
-                  '(see here: https://github.com/OwlSoul/YandexTransportProxy).',
+    description = 'Test project for Automated deploy of Python Package.'
+                  ' We are sorry if you downloaded that, being enchanted by its name.',
     # Type in your name
     author = 'Yury D.',
     # Type in your E-Mail
     author_email = 'SoulGate@yandex.ru',
     # Provide either the link to your github or to your website
-    url = 'https://github.com/OwlSoul/YandexTransportWebdriverAPI-Python',
+    url = 'https://github.com/OwlSoul/JekninsTest',
     # I explain this later on
     download_url = 'https://github.com/OwlSoul/JenkinsTest/archive/0.0.20.tar.gz',
     # Keywords that define your package best
