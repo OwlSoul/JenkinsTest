@@ -5,7 +5,7 @@ setup(
     # Chose the same as "name"
     packages = ['YandexTransportWebdriverAPI'],
     # Start with a small number and increase it with every change you make
-    version = '1.1.2',
+    version = '9.0.0',
     # Chose a license from here: https://help.github.com/articles/licensing-a-repository
     license='MIT',
     # Give a short description about your library
