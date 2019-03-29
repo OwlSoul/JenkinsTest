@@ -1,1 +1,3 @@
 .idea
+upload_pypi_package.sh
+dist

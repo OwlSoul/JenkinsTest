@@ -1,9 +1,9 @@
 from distutils.core import setup
 setup(
     # How you named your package folder
-    name = 'YandexTransportWebdriverAPI',
+    name = 'JKvYtgproPythonTest',
     # Chose the same as "name"
-    packages = ['YandexTransportWebdriverAPI'],
+    packages = ['JKvYtgproPythonTest'],
     # Start with a small number and increase it with every change you make
     version = '9.0.0',
     # Chose a license from here: https://help.github.com/articles/licensing-a-repository
