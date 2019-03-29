@@ -1,3 +1,5 @@
 .idea
 upload_pypi_package.sh
 dist
+token
+npm-debug.log
