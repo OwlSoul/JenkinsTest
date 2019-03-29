@@ -1,0 +1,3 @@
+#!/bin/bash
+
+curl "http://Admin:BigFatCatRed55@owlsoul.biz.tm:8081/job/JenkinsTest/buildWithParameters?token=JenkinsTest&state=release"
