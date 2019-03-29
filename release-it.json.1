@@ -1,0 +1,25 @@
+{
+  "preReleaseId": null,
+  "pkgFiles": ["package.json"],
+  "use": "git.tag",
+  "scripts": {
+    "beforeStart": null,
+    "beforeBump": null,
+    "afterBump": null,
+    "beforeStage": null,
+    "changelog": "git log --pretty=format:\"* %s (%h)\" [REV_RANGE]",
+    "afterRelease": null
+  },
+  "github": {
+    "release": true,
+    "releaseName": "JenkinsTest ${version}",
+    "releaseNotes": "./release_notes.sh",
+    "preRelease": true,
+    "draft": false,
+    "tokenRef": "GITHUB_TOKEN",
+    "assets": null,
+    "host": null,
+    "timeout": 0,
+    "proxy": null
+  }
+}
