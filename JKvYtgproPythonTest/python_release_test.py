@@ -2,7 +2,7 @@
 __author__ = "Yury D."
 __credits__ = ["Yury D.", "Some Dude", "Some Dudette"]
 __license__ = "MIT"
-__version__ = "9.0.0"
+__version__ = ""
 __maintainer__ = "Yury D."
 __email__ = "SoulGate@yandex.ru"
 __status__ = "Alpha"
