@@ -5,7 +5,7 @@ setup(
     # Chose the same as "name"
     packages = ['JKvYtgproPythonTest'],
     # Start with a small number and increase it with every change you make
-    version = '0.0.21',
+    version = '0.5.0',
     # Chose a license from here: https://help.github.com/articles/licensing-a-repository
     license='MIT',
     # Give a short description about your library
@@ -18,7 +18,7 @@ setup(
     # Provide either the link to your github or to your website
     url = 'https://github.com/OwlSoul/JekninsTest',
     # I explain this later on
-    download_url = 'https://github.com/OwlSoul/JenkinsTest/archive/0.0.21.tar.gz',
+    download_url = 'https://github.com/OwlSoul/JenkinsTest/archive/0.5.0.tar.gz',
     # Keywords that define your package best
     keywords = ['Yandex', 'Transport', 'Masstransit', 'WebDriver'],
     # I get to this in a second
