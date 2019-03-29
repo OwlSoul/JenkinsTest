@@ -5,7 +5,7 @@ setup(
     # Chose the same as "name"
     packages = ['JKvYtgproPythonTest'],
     # Start with a small number and increase it with every change you make
-    version = '4.4.4',
+    version = '1.1.111',
     # Chose a license from here: https://help.github.com/articles/licensing-a-repository
     license='MIT',
     # Give a short description about your library
